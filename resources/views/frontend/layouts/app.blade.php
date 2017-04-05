@@ -25,7 +25,7 @@
 
         @yield('after-styles')
 
-      
+
 
         <style>
 
